@@ -1,0 +1,35 @@
+{
+  "best_model": "Random Forest",
+  "best_accuracy": 0.74,
+  "best_model_repeated_cv": "SVM (RBF)",
+  "best_model_repeated_cv_all": "Random Forest",
+  "best_repeated_cv_accuracy": 0.7373333333333334,
+  "baseline_accuracy": 0.7,
+  "selected_features": [
+    "duration_months",
+    "checking_balance_< 0 DM",
+    "checking_balance_unknown",
+    "credit_history_fully repaid",
+    "savings_balance_< 100 DM",
+    "savings_balance_unknown",
+    "property_real estate",
+    "property_unknown/none",
+    "installment_plan_none",
+    "housing_own"
+  ],
+  "sklearn_version": "1.8.0",
+  "python": "3.12.3",
+  "tuned": false,
+  "dropped_sensitive": false,
+  "models": [
+    "Logistic Regression",
+    "LDA",
+    "QDA",
+    "Random Forest",
+    "Gradient Boosting",
+    "SVM (RBF)",
+    "KNN",
+    "Decision Tree",
+    "Naive Bayes"
+  ]
+}

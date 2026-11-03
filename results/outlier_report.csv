@@ -1,0 +1,5 @@
+feature,lower_fence,upper_fence,outliers_capped
+duration_months,-6.0,42.0,70
+credit_amount,-2544.62,7882.38,72
+age,4.5,64.5,23
+monthly_burden,-85.27,381.06,45
