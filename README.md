@@ -48,3 +48,4 @@ Majority-class baseline (approve everybody): **70 %** accuracy.
 * Restricting to 10 ANOVA-F features costs ~2-3 points of accuracy for the flexible models — univariate selection discards useful interactions.
 * **Statistical (odds-ratio) view** — strongest risk drivers (statsmodels MLE): longer duration (OR 1.48 per +1 SD), negative checking balance (1.52), other installment plans (no plan: 0.52), no checking account (0.28). Reference categories are the alphabetically first level of each variable.
 
+**Link to the app-** https://loan-predictor-af9njm6lzwiete4mwktsfw.streamlit.app/#interactive-explorer
